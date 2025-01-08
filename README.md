@@ -18,4 +18,4 @@ Standalone File Replacement Created By - DodgergamingJR
 - Replace Any Files
 
 # Example Images
-![Example Image 1](Example\Singleplayer.png)
+![Example Image 1](Example/Singleplayer.png)
