@@ -1,5 +1,4 @@
-# Liberty_City_Emergency_Map_Blips
-Standalone File Replacement Created By - DodgergamingJR
+# Liberty_City_Singleplayer_GTA_V_Original_Map_Design
 
 ## Features
 * Restores GTA V's Map Design
