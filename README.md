@@ -19,3 +19,6 @@ Standalone File Replacement Created By - DodgergamingJR
 
 # Example Images
 ![Example Image 1](Example/Singleplayer.png)
+
+## Credits
+- Original Map Design - World Travel Team 
